@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "CountryDB": "Host=206.189.207.94;port=5432;database=country;Username=[redacted];Password=[redacted]"
+  }
+}
