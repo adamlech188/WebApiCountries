@@ -3,11 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesDotNetCoreWebApi", "CountriesDotNetCoreWebApi\CountriesDotNetCoreWebApi.csproj", "{FEF7939B-7385-44B1-BBA9-BEC8AA628E0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountriesDotNetCoreWebApi", "CountriesDotNetCoreWebApi\CountriesDotNetCoreWebApi.csproj", "{FEF7939B-7385-44B1-BBA9-BEC8AA628E0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesLibrary", "CountriesLibrary\CountriesLibrary.csproj", "{FCDBE0E8-65A8-48F1-98A3-2B350387237D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountriesLibrary", "CountriesLibrary\CountriesLibrary.csproj", "{FCDBE0E8-65A8-48F1-98A3-2B350387237D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryLibraryTest", "CountryLibraryTest\CountryLibraryTest.csproj", "{DBFF1314-3233-40D9-AE94-12762A474AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountryLibraryTest", "CountryLibraryTest\CountryLibraryTest.csproj", "{DBFF1314-3233-40D9-AE94-12762A474AB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5359F18C-67E8-4AAA-81CD-ED8F0AF0C894}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
